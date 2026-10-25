@@ -156,7 +156,34 @@ export default function Projects() {
         "/projects/ecommerce-3.png",
       ],
      
-      githubLink: "https://github.com/ikhwaDEV1528/web-magang.git",
+      // githubLink: "https://github.com/ikhwaDEV1528/web-magang.git",
+    },
+    {
+      title: "Alertify AI",
+      description:
+        "Alertify AI adalah aplikasi mobile to-do list berbasis React Native dan Python yang memanfaatkan AI untuk menyusun prioritas dan pengingat tugas otomatis berdasarkan tingkat urgensi (tinggi, sedang, rendah).",
+      tech: ["React Native", "JavaScript", "Pyhton",'Go'],
+      images: [
+        "/todokegiatan.png",
+        "/todokalender.png",
+        "/todoadd.png",
+      ],
+     
+      // githubLink: "https://github.com/ikhwaDEV1528/web-magang.git",
+    },
+
+    {
+      title: "Dimsum Go",
+      description:
+        "Alertify AI adalah aplikasi mobile to-do list berbasis React Native dan Python yang memanfaatkan AI untuk menyusun prioritas dan pengingat tugas otomatis berdasarkan tingkat urgensi (tinggi, sedang, rendah).",
+      tech: ["React.js", "JavaScript","CSS"],
+      images: [
+        "/dimsumcart.png",
+        "/dimsumlist.png",
+        "/dimsumlanding.png",
+      ],
+     
+      // githubLink: "https://github.com/ikhwaDEV1528/web-magang.git",
     },
   ];
 

@@ -14,7 +14,7 @@ export default function Certifications() {
       credentialLink: "https://coursera.org/verify/your-id", // Opsional, hapus jika tidak ada
     },
     {
-      title: "Seminar Kelas Coding Dan Festival Coding 2022",
+      title: "Bootcamp Kelas Coding Dan Festival Coding 2022",
       issuer: "Festival coding",
       date: "Desember 2023",
       description: "Mengikut rangkaian acara festival coding. dalam hal ini mengikuti materi coding, pemecahana masalah terhadap kasus-kasus tertentu",
